@@ -2,6 +2,10 @@
 
 The project is made to show the weather forecast for the following cities: Bucharest, Brasov, Arad, Timisoara and Oradea.
 
+## Project link
+
+Visit the project on (https://displaycityweather.netlify.app/).
+
 ## Description
 
 This project is structured in two parts:
