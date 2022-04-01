@@ -4,7 +4,7 @@ The project is made to show the weather forecast for the following cities: Bucha
 
 ## Project link
 
-Visit the project on displaycityweather.netlify.app.
+Visit the project [here](https://displaycityweather.netlify.app).
 
 ## Description
 
