@@ -4,7 +4,7 @@ The project is made to show the weather forecast for the following cities: Bucha
 
 ## Project link
 
-Visit the project on (https://displaycityweather.netlify.app/).
+Visit the project on displaycityweather.netlify.app.
 
 ## Description
 
@@ -14,3 +14,4 @@ This project is structured in two parts:
 - The second part uses [5 day weather forecast](https://openweathermap.org/forecast5) API and displays 5 day weather forecast, every 3 hours.
 
   Weather website project offers the possibility _to change current city_ between the above and _store the choice in localStorage_.
+  [](..........)
