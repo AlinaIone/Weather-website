@@ -45,8 +45,7 @@ npm install
 ```bash
 npm start
 ```
--  View the app
-Open your web browser and go to the URL indicated by the development server
+-  View the app - open your web browser and go to the URL indicated by the development server
 
 > [!NOTE]
 > You can use the website accesing the [Project Link](#project-link)
