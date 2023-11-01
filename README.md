@@ -1,5 +1,5 @@
-# Weather Forecast 
-#### This React project utilizes a [Weather API](https://openweathermap.org/api) to provide real-time weather forecasts for the cities of Bucharest, Brasov, Arad, Timisoara, and Oradea, offering users up-to-date meteorological information and conditions
+# Weather Website 
+#### This project utilizes a [Weather API](https://openweathermap.org/api) to provide real-time weather forecasts for the cities of Bucharest, Brasov, Arad, Timisoara, and Oradea, offering users up-to-date meteorological information and conditions
 
 ## Project Link
  Visit the project [here](https://displaycityweather.netlify.app).
@@ -13,13 +13,17 @@
 * [Project Status](#project-status)
 
 ## Description
+The Weather Website is designed to facilitate the accessibility of weather information for some of the notable cities in Romania.
 
-This project is structured in two parts:
+**Key Features**
+- **City Selection:** Easily switch between cities of interest using the intuitive dropdown menu.
+- **Persistent Settings:** Your chosen city is saved with localStorage, ensuring your preference remains across visits to the site.
+- **Enhanced Navigation:** We've implemented a convenient scroll button to speed up your interaction and reduce scrolling time.
 
-- The first part uses [Current weather data](https://openweathermap.org/current) API and displays city, time, temperature, real feel, a short description and wind speed.
-- The second part uses [5 day weather forecast](https://openweathermap.org/forecast5) API and displays 5 day weather forecast, every 3 hours.
+This project consists of two parts, both powered by JavaScript:
+1. The first part utilizes the [Current weather data](https://openweathermap.org/current) API a to fetch and display real-time weather information, including city, time, temperature, real feel, a short description, and wind speed.
+1. The second part makes use of the [5 day weather forecast](https://openweathermap.org/forecast5) API to present a detailed 5-day weather forecast, updated every 3 hours, all driven by JavaScript.
 
-Weather website project offers the possibility _to change current city_ between the above and _store the choice in localStorage_.
 
 ## Technologies
 
