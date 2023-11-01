@@ -43,8 +43,7 @@ cd Weather-website
 ```
 - Open in a Text Editor(IDE)
 - Launch the Project
-
-Open the HTML file in a web browser by by double-clicking it
+   - Open the HTML file in a web browser by by double-clicking it
 
 
 > [!NOTE]
