@@ -43,9 +43,9 @@ cd Weather-website
 ```
 - Open in a Text Editor(IDE)
 - Launch the Project
-```bash
+
 Open the HTML file in a web browser by by double-clicking it
-```
+
 
 > [!NOTE]
 > You can access the website by visiting the [Project Link](#project-link)
