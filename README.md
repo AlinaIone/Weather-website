@@ -33,7 +33,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ## Instructions
 
-- Clone the repository
+- Clone the repository to your local machine
 ```bash
 git clone https://github.com/AlinaIone/Weather-website.git
 ```
@@ -41,15 +41,11 @@ git clone https://github.com/AlinaIone/Weather-website.git
 ```bash
 cd Weather-website
 ```
-- Install dependencies
+- Open in a Text Editor(IDE)
+- Launch the Project
 ```bash
-npm install
+Open the HTML file in a web browser by by double-clicking it
 ```
-- Start the development server
-```bash
-npm start
-```
--  View the app - open your web browser and go to the URL indicated by the development server
 
 > [!NOTE]
 > You can use the website accesing the [Project Link](#project-link)
