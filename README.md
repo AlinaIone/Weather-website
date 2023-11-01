@@ -7,7 +7,6 @@
 ## Table of Contents
 * [Description](#description)
 * [Technologies](#technologies)
-* [Usage](#usage)
 * [Instructions](#instructions)
 * [Credits](#credits)
 * [Project Status](#project-status)
@@ -24,12 +23,13 @@ This project consists of two parts, both powered by JavaScript:
 1. The first part utilizes the [Current weather data](https://openweathermap.org/current) API a to fetch and display real-time weather information, including city, time, temperature, real feel, a short description, and wind speed.
 1. The second part makes use of the [5 day weather forecast](https://openweathermap.org/forecast5) API to present a detailed 5-day weather forecast, updated every 3 hours, all driven by JavaScript.
 
-
 ## Technologies
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+- HTML (HyperText Markup Language)
+- CSS (Cascading Style Sheets)
+- JavaScript (ES6)
+- DOM (Document Object Model)
+- Bootstrap(5.1.0)
+- Google Fonts
 
 ## Instructions
 
@@ -48,34 +48,11 @@ Open the HTML file in a web browser by by double-clicking it
 ```
 
 > [!NOTE]
-> You can use the website accesing the [Project Link](#project-link)
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
+> You can access the website by visiting the [Project Link](#project-link)
 
 ## Credits
-## Project Status 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+**Course: Web Development by [IT School](https://www.itschool.ro/cursuri/curs-web-development-online)**
+- **Trainer:** [Răzvan Cîrlugea](https://github.com/razvancir96)
+  
+This project was developed as part of the "Web Development" course, taught by Răzvan Cîrlugea. A big thank you to Răzvan Cîrlugea for his excellent guidance and teaching during the course.
