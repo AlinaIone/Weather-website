@@ -57,3 +57,6 @@ cd Weather-website
 - **Trainer:** [Răzvan Cîrlugea](https://github.com/razvancir96)
   
 This project was developed as part of the "Web Development" course, taught by Răzvan Cîrlugea. A big thank you to Răzvan Cîrlugea for his excellent guidance and teaching during the course.
+
+## Project Status
+- Completed
